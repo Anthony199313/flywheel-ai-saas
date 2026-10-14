@@ -1,0 +1,28 @@
+{
+  "name": "flywheel-ai-saas",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "@supabase/supabase-js": "^2.0.0",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.25",
+    "lucide-react": "^0.280.0",
+    "recharts": "^2.5.0",
+    "xlsx": "^0.18.5",
+    "clsx": "^1.2.1",
+    "framer-motion": "^10.12.16",
+    "tailwind-merge": "^1.15.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0"
+  }
+}
